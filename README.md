@@ -18,3 +18,5 @@ https://colab.research.google.com/drive/1ZzO2LIPaI5dpvSAoA9wQN-c1SycUc3Py?usp=sh
 ### Data (folder)
 
 - The requested output is in `Scores.csv` with the header anon_person_id | target | prediction | probability. Notice that the `probability` here is the probability of the predicted class. It's always larger than 0.5. For example, if prediction is 0, the corresponding probability is 0.8 (class 0). not 0.2 (class 1); if another sample's prediction is 1, the the corresponding probability is 0.8 (class 1), not 0.2 (class 0).
+
+- The file (35 MB) is too large. A Google Drive file is shared here. https://drive.google.com/file/d/1-3g6mQpLwvWts9MMqUA_w4o8VNa5lsXX/view?usp=sharing
