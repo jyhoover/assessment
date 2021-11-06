@@ -1,6 +1,10 @@
 DataScience-TakeHome.docx
 ds_practical.txt
 slides.keynote.key
+.DS_Store
 SQL/query1.txt
 SQL/query2.txt
 SQL/query3.txt
+SQL/.ipynb_checkpoints/
+ML/.ipynb_checkpoints/
+ML/.DS_Store
